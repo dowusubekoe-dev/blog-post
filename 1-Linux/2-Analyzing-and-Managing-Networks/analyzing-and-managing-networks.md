@@ -1,5 +1,7 @@
 # Analyzing and Managing Networks
 
+![image](./img/linux-101.png)
+
 ## Understanding and Managing Networks with Linux
 In today’s digital age, understanding how networks work is essential for anyone interested in technology, especially aspiring hackers. Chapter 3 of “Linux Basics for Hackers” introduces the fundamental tools and techniques for analyzing and managing networks using Linux. This article will break down these concepts into real-world scenarios that are easy for middle school students to grasp.
 

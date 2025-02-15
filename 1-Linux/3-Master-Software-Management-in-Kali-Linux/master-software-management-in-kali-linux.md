@@ -1,5 +1,7 @@
 # Master Software Management in Kali Linux
 
+![image](./img/linux-101.png)
+
 *Essential guide to mastering software management in Kali Linux. Install, update, and remove tools with ease for a secure system.*
 
 ## The Power of APT: Your Go-To Package Manager

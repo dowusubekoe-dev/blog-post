@@ -1,4 +1,6 @@
 ## Chapter 1: Getting Started with the Basics
+
+![image](./img/linux-101.png)
 **Linux** is the operating system of choice for hackers due to its powerful command line interface and extensive customization capabilities. In this chapter, we'll explore the essentials to get you started with Linux using Kali, a popular distribution for penetration testing and security research.
 
 ## Introductory Terms and Concepts

@@ -1,4 +1,7 @@
 # Chapter 2: Text Manipulation in Linux
+
+![image](./img/linux-101.png)
+
 Text manipulation is a crucial skill in Linux, as most of the system's configuration files and logs are plain text. This chapter introduces various commands and techniques to efficiently view, edit, and manage text files.
 
 ## Viewing Files
