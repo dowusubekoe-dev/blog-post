@@ -1,5 +1,7 @@
 # Process Management
 
+![image](./img/linux-101.png)
+
 **What this tutorial is about:**
 
 This lesson explains how to understand and manage *processes* in Linux.  Think of a "process" as a running program or task on your computer.  Everything you do – opening a web browser, editing a document, playing music – runs as a process. This tutorial will teach you how to:
